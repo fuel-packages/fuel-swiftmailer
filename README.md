@@ -8,3 +8,7 @@ Once installed you can add it to `always_load` in the app main config, or load i
 ## Documentation
 
 Official documentation on [swiftmailer.org](http://swiftmailer.org/docs)
+
+## License
+
+Official GNU LGPL v3 license included as file LICENSE.
