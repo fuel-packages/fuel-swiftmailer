@@ -2,7 +2,7 @@
 
 ## Installation
 
-Download and extract in your packages dit or run `oil install swiftmailer`.  
+Download and extract in your packages dit or run `oil package install swiftmailer`.  
 Once installed you can add it to `always_load` in the app main config, or load it manually using `Package::load('swiftmailer')`.
 
 ## Documentation
